@@ -1,0 +1,217 @@
+@font-face {
+	font-family: 'Linearicons-Free';
+	src:url('../fonts/Linearicons-Free.eot?w118d');
+	src:url('../fonts/Linearicons-Free.eot?#iefixw118d') format('embedded-opentype'),
+		url('../fonts/Linearicons-Free.woff2?w118d') format('woff2'),
+		url('../fonts/Linearicons-Free.woff?w118d') format('woff'),
+		url('../fonts/Linearicons-Free.ttf?w118d') format('truetype'),
+		url('../fonts/Linearicons-Free.svg?w118d#Linearicons-Free') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.lnr {
+	font-family: 'Linearicons-Free';
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.lnr-heart:before {
+	content: "\e813";
+	font-family: 'Linearicons-Free';
+}
+.lnr-alarm:before {
+	content: "\e858";
+	font-family: 'Linearicons-Free';
+}
+.lnr-envelope:before {
+	content: "\e818";
+	font-family: 'Linearicons-Free';
+}
+.lnr-cart:before {
+	content: "\e82e";
+	font-family: 'Linearicons-Free';
+}
+.lnr-briefcase:before {
+	content: "\e84c";
+	font-family: 'Linearicons-Free';
+}
+.lnr-cloud-download:before {
+	content: "\e80b";
+	font-family: 'Linearicons-Free';
+}
+.lnr-smile:before {
+	content: "\e854";
+	font-family: 'Linearicons-Free';
+}
+.lnr-user:before {
+	content: "\e82a";
+	font-family: 'Linearicons-Free';
+}
+.lnr-users:before {
+	content: "\e82b";
+	font-family: 'Linearicons-Free';
+}
+.lnr-license:before {
+	content: "\e822";
+	font-family: 'Linearicons-Free';
+}
+.lnr-magic-wand:before {
+	content: "\e803";
+	font-family: 'Linearicons-Free';
+}
+.lnr-lock:before {
+	content: "\e80f";
+	font-family: 'Linearicons-Free';
+}
+.lnr-chart-bars:before {
+	content: "\e843";
+	font-family: 'Linearicons-Free';
+}
+.lnr-leaf:before {
+	content: "\e849";
+	font-family: 'Linearicons-Free';
+}
+.lnr-phone:before {
+	content: "\e831";
+	font-family: 'Linearicons-Free';
+}
+.lnr-bubble:before {
+	content: "\e83f";
+	font-family: 'Linearicons-Free';
+}
+.lnr-clock:before {
+	content: "\e864";
+	font-family: 'Linearicons-Free';
+}
+.lnr-eye:before {
+	content: "\e81b";
+	font-family: 'Linearicons-Free';
+}
+.lnr-map-marker:before {
+	content: "\e833";
+	font-family: 'Linearicons-Free';
+}
+.lnr-chevron-up:before {
+	content: "\e873";
+	font-family: 'Linearicons-Free';
+}
+.lnr-chevron-down:before {
+	content: "\e874";
+	font-family: 'Linearicons-Free';
+}
+.lnr-chevron-left:before {
+	content: "\e875";
+	font-family: 'Linearicons-Free';
+}
+.lnr-chevron-right:before {
+	content: "\e876";
+	font-family: 'Linearicons-Free';
+}
+.lnr-star:before {
+	content: "\e814";
+	font-family: 'Linearicons-Free';
+}
+.lnr-trash:before {
+	content: "\e811";
+	font-family: 'Linearicons-Free';
+}
+.lnr-home:before {
+	content: "\e800";
+	font-family: 'Linearicons-Free';
+}
+.lnr-cog:before {
+	content: "\e810";
+	font-family: 'Linearicons-Free';
+}
+.lnr-dice:before {
+	content: "\e812";
+	font-family: 'Linearicons-Free';
+}
+.lnr-chart-bars:before {
+	content: "\e843";
+	font-family: 'Linearicons-Free';
+}
+.lnr-upload:before {
+	content: "\e866";
+	font-family: 'Linearicons-Free';
+}
+.lnr-book:before {
+	content: "\e828";
+	font-family: 'Linearicons-Free';
+}
+.lnr-exit:before {
+	content: "\e820";
+	font-family: 'Linearicons-Free';
+}
+
+//Font awesome 
+
+@font-face {
+	font-family: 'icomoon';
+	src:  url('../fonts/icomoon.eot?tvwzzs');
+	src:  url('../fonts/icomoon.eot?tvwzzs#iefix') format('embedded-opentype'),
+	  url('../fonts/icomoon.ttf?tvwzzs') format('truetype'),
+	  url('../fonts/icomoon.woff?tvwzzs') format('woff'),
+	  url('../fonts/icomoon.svg?tvwzzs#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon';
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+  
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-twitter:before {
+	content: "\f099";
+	font-family: 'icomoon';
+  }
+  .icon-facebook:before {
+	content: "\f09a";
+	font-family: 'icomoon';
+  }
+  .icon-facebook-f:before {
+	content: "\f09a";
+	font-family: 'icomoon';
+  }
+  .icon-pinterest:before {
+	content: "\f0d2";
+	font-family: 'icomoon';
+  }
+  .icon-linkedin:before {
+	content: "\f0e1";
+	font-family: 'icomoon';
+  }
+  .icon-dribbble:before {
+	content: "\f17d";
+	font-family: 'icomoon';
+  }
+  .icon-google:before {
+	content: "\f1a0";
+	font-family: 'icomoon';
+  }
+  .icon-reply:before {
+	content: "\f112";
+	font-family: 'icomoon';
+  }
+
+
+  
